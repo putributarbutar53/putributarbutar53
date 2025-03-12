@@ -1,6 +1,8 @@
+[![MasterHead](https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif)](https://putributarbutar53.io)
 <h1 align="center">Hi 👋, I'm Putri Butarbutar</h1>
-<h3 align="center">A passionate Full stack developer from Toba</h3>
 
+<h3 align="center">A passionate Full stack developer from Toba</h3>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=putributarbutar53&label=Profile%20views&color=0e75b6&style=flat" alt="putributarbutar53" /> </p>
 
 - 🔭 I’m currently working on **Dinas Komunikasi dan Informatika**
